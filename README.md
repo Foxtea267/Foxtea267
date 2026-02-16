@@ -1,4 +1,4 @@
-# 👋 你好，我是 Foxtea267 !
+# 👋 Hello, It's Foxtea here!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=15-year-old+High+Schooler;Full-stack+Enthusiast;Vue+%2F+Nuxt.js+Developer;React+%2F+Next.js+Developer" alt="Typing SVG" />
