@@ -65,5 +65,5 @@
 ---
 
 <p align="center">
-  <i>"."</i> 🌟
+  <i>"It is difficult for inoccupation to attach a leg to the ground and to work."</i> 🌟
 </p>
