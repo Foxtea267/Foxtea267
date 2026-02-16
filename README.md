@@ -6,7 +6,9 @@
 
 ---
 
+<p align="center">
 ![Foxtea267](https://count.getloli.com/@Foxtea267?name=Foxtea&theme=gelbooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0)
+</p>
 
 ---
 
@@ -15,8 +17,7 @@
 - Student | 15year old | ACGN ＆ Music
 - From Mainland China🇨🇳
 - Language: 🇺🇸en-US＆🇨🇳zh-CN
-- Politically Neutral
-🇨🇳🇹🇼🇯🇵🇲🇾🇺🇸🇪🇺🇦🇺🇳🇿🇺🇦🇷🇺🇬🇧
+- Politically Neutral 🇨🇳🇹🇼🇯🇵🇲🇾🇺🇸🇪🇺🇦🇺🇳🇿🇺🇦🇷🇺🇬🇧
 
 ---
 
@@ -45,9 +46,11 @@
 
 ###  GitHub Stats
 
+<p align="center">
 <img src="https://streak-stats.demolab.com/?user=Foxtea267&theme=tokyonight&hide_border=true&border_radius=20" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Foxtea267&theme=tokyonight&bg_color=1a1b27&color=79c0ff&line=79c0ff&point=ff7b72&area=true&hide_border=true" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
+</p>
 
 ---
 
@@ -63,10 +66,10 @@
 
 ---
 
-<a href="https://donate.foxtea.fun/" target="_blank"><img src="/img/buymeacoffee.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://donate.foxtea.fun/" target="_blank"><img src="/img/buymeacoffee.png" alt="Buy Me A Coffee" height="41" width="174" align="center"></a>
 
 ---
 
 <p align="center">
-  <i>"It is difficult for inoccupation to attach a leg to the ground and to work."</i> 🌟
+  <i>"It is difficult for inoccupation to attach a leg to the ground and to work."</i> <br/> 🌟
 </p>
