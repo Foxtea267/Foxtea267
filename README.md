@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-![Foxtea267](https://count.getloli.com/@Foxtea267?name=Foxtea&theme=gelbooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0)
+  <img src="https://count.getloli.com/@Foxtea267?name=Foxtea&theme=gelbooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0">
 </p>
 
 ---
