@@ -1,7 +1,7 @@
 # 👋 Hello, It's Foxtea here!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Student;UI+Designer;Vue+%2F+Nuxt.js+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Student;UI+Designer;Nuxt.js+%2F+Next.js+Developer;" alt="Typing SVG" />
 </p>
 
 ---
