@@ -63,6 +63,10 @@
 
 ---
 
+[![Buy me a coffee](/img/buymeacoffee.png "Buy me a coffee")](https://donate.foxtea.fun)
+
+---
+
 <p align="center">
   <i>"It is difficult for inoccupation to attach a leg to the ground and to work."</i> 🌟
 </p>
