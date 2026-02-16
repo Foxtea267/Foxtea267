@@ -46,7 +46,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Foxtea267&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foxtea267&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Foxtea267&theme=tokyonight&hide_border=true&border_radius=20" />
 </p>
 
 <p align="center">
