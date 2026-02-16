@@ -44,13 +44,9 @@
 
 ###  GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Foxtea267&theme=tokyonight&hide_border=true&border_radius=20" />
-</p>
+<img src="https://streak-stats.demolab.com/?user=Foxtea267&theme=tokyonight&hide_border=true&border_radius=20" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
 
-<p align="center">
-  <img src=https://github-readme-activity-graph.vercel.app/graph?username=Foxtea267&theme=tokyonight&bg_color=1a1b27&color=79c0ff&line=79c0ff&point=ff7b72&area=true&hide_border=true" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Foxtea267&theme=tokyonight&bg_color=1a1b27&color=79c0ff&line=79c0ff&point=ff7b72&area=true&hide_border=true" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
 
 ---
 
