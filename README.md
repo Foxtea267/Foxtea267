@@ -45,12 +45,11 @@
 ###  GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Foxtea267&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://streak-stats.demolab.com/?user=Foxtea267&theme=tokyonight&hide_border=true&border_radius=20" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Foxtea267&theme=vue-dark" alt="GitHub Streak" />
+  <img src=https://github-readme-activity-graph.vercel.app/graph?username=Foxtea267&theme=tokyonight&bg_color=1a1b27&color=79c0ff&line=79c0ff&point=ff7b" />
 </p>
 
 ---
