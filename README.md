@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**Foxtea267/Foxtea267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋Hello, It's Foxtea here!
+## 📝INFO
+Student | 15year old
+From Mainland China🇨🇳
+Language: 🇺🇸en-US＆🇨🇳zh-CN
+Politically Neutral
+## 🔗LINK
+Website: [foxtea.fun](https://foxtea.fun) or [oeo.ee](https://oeo.ee)
+Blog: [blog.foxtea.fun](https://blog.foxtea.fun)
+Email: me@foxtea.fun
+Buy me a coffee: [donate.foxtea.fun](https://donate.foxtea.fun) or [donate.oeo.ee](https://donate.oeo.ee)
+X: @Foxtea267
+Discord: @Foxtea267
+TG: BANNED☠️
+LINE: forgot...
