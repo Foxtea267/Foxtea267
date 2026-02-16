@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=22&pause=1000&color=8284FF&center=true&vCenter=true&width=435&lines=Student;UI+Designer;Nuxt.js+%2F+Next.js+Developer;" alt="Typing SVG" />
 </p>
 
+---
+
 ![Foxtea267](https://count.getloli.com/@Foxtea267?name=Foxtea&theme=gelbooru-h&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0)
 
 ---
