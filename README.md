@@ -63,7 +63,7 @@
 
 ---
 
-[![Buy me a coffee](/img/buymeacoffee.png "Buy me a coffee")](https://donate.foxtea.fun)
+<a href="https://donate.foxtea.fun/" target="_blank"><img src="/img/buymeacoffee.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ---
 
