@@ -1,12 +1,12 @@
 # 👋 Hello, It's Foxtea here!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Student;UI Designer;Vue+%2F+Nuxt.js+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Student;UI+Designer;Vue+%2F+Nuxt.js+Developer;" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📝 About me
+###  About me
 
 - Student | 15year old
 - From Mainland China🇨🇳
