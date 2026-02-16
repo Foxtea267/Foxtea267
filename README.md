@@ -8,7 +8,7 @@
 
 ###  About me
 
-- Student | 15year old
+- Student | 15year old | High school student
 - From Mainland China🇨🇳
 - Language: 🇺🇸en-US＆🇨🇳zh-CN
 - Politically Neutral
@@ -39,7 +39,7 @@
 
 ---
 
-###  GitHub 统计信息
+###  GitHub Statistics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Foxtea267&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
@@ -52,7 +52,7 @@
 
 ---
 
-### Con
+### Contact me
 
 - **Email**: me@foxtea.fun
 - **Website**: [foxtea.fun](https://foxtea.fun) or [oeo.ee](https://oeo.ee)
@@ -65,5 +65,5 @@
 ---
 
 <p align="center">
-  <i>"Keep coding, keep learning, and keep dreaming."</i> 🌟
+  <i>"."</i> 🌟
 </p>
