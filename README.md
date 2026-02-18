@@ -17,7 +17,9 @@
 - Student | 15 year old | ACGN＆Music
 - From Mainland China🇨🇳
 - Language: 🇺🇸en-US＆🇨🇳zh-CN
-- Politically Neutral 🇨🇳🇹🇼🇯🇵🇲🇾🇺🇸🇪🇺🇦🇺🇳🇿🇺🇦🇷🇺🇬🇧
+- Politically and Territorially Neutral
+- Politically Unaffiliated
+- 🇨🇳🇹🇼🇯🇵🇲🇾🇺🇸🇪🇺🇦🇺🇳🇿🇺🇦🇷🇺🇬🇧
 
 ---
 
