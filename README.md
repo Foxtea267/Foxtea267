@@ -19,7 +19,7 @@
 - Language: 🇺🇸en-US＆🇨🇳zh-CN
 - Politically and Territorially Neutral
 - Politically Unaffiliated
-- Favorite country/region: 🇨🇳🇹🇼🇯🇵🇲🇾🇺🇸🇪🇺🇦🇺🇳🇿🇺🇦🇷🇺🇬🇧
+- Favorite country/region: 🇨🇳🇹🇼🇯🇵🇰🇷🇸🇬🇲🇾🇺🇸🇪🇺🇦🇺🇳🇿🇺🇦🇷🇺🇬🇧🇧🇾
 
 ---
 
