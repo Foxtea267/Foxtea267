@@ -14,7 +14,7 @@
 
 ###  About me
 
-- Student | 15 year old | ACGN＆Music
+- Student | 16 year old | ACGN＆Music
 - From Mainland China🇨🇳
 - Language: 🇺🇸en-US＆🇨🇳zh-CN
 - Politically and Territorially Neutral
