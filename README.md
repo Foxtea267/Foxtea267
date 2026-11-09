@@ -15,7 +15,7 @@
 ###  About me
 
 - Student | 16 year old | ACGN＆Music
-- From Mainland China🇨🇳
+- From Kyoto, Japan🇯🇵
 - Language: 🇺🇸en-US＆🇨🇳zh-CN
 - Politically and Territorially Neutral
 - Politically Unaffiliated
